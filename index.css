@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Inter';
+    src: url('fonts/Inter-VariableFont.ttf') format('ttf'),
+         url('fonts/Inter-VariableFont.ttf') format('ttf');
+}
+
+/* Include other font styles and weights if available, e.g., Inter-Bold, Inter-Italic, etc. */
+
+body {
+    font-family: 'Inter', sans-serif;
+}
